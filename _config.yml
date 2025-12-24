@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "default, "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kn0whow - The diary of a Sysadmin"
+title                    : "Kn0whow - diary of a Sysadmin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kn0whow"
-description              : "The Diary of a Sysadmin."
+description              : "Diary of a Sysadmin."
 url                      : "https://kn0whow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
