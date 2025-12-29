@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "default, "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kn0whow - diary of a Sysadmin"
+title                    : "Kn0whow - diary of a sysadmin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kn0whow"
-description              : "Diary of a Sysadmin."
+description              : "Diary of a sysadmin."
 url                      : "https://kn0whow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kn0whow"
+      # url: "https://twitter.com/kn0whow"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@kn0whow"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kn0whow"
+      # url: "https://twitter.com/kn0whow"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@kn0whow"
